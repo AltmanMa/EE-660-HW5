@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.26)  28 APR 2024 21:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.26)  28 APR 2024 23:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -23,6 +23,30 @@ File: size11.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
 )
+(d:/Latex/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(d:/Latex/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(d:/Latex/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(d:/Latex/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(d:/Latex/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(d:/Latex/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
 (d:/Latex/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2022/04/08 v2.17n AMS math features
 \@mathmargin=\skip50
@@ -33,12 +57,12 @@ Package: amstext 2021/08/26 v2.01 AMS text
 
 (d:/Latex/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks16
-\ex@=\dimen141
+\@emptytoks=\toks17
+\ex@=\dimen143
 ))
 (d:/Latex/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen142
+\pmbraise@=\dimen144
 )
 (d:/Latex/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
@@ -60,7 +84,7 @@ LaTeX Info: Redefining \big on input line 722.
 LaTeX Info: Redefining \Big on input line 723.
 LaTeX Info: Redefining \bigg on input line 724.
 LaTeX Info: Redefining \Bigg on input line 725.
-\big@size=\dimen143
+\big@size=\dimen145
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 \macc@depth=\count198
@@ -73,21 +97,21 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \dotsspace@=\muskip16
 \c@parentequation=\count266
 \dspbrk@lvl=\count267
-\tag@help=\toks17
+\tag@help=\toks18
 \row@=\count268
 \column@=\count269
 \maxfields@=\count270
-\andhelp@=\toks18
-\eqnshift@=\dimen144
-\alignsep@=\dimen145
-\tagshift@=\dimen146
-\tagwidth@=\dimen147
-\totwidth@=\dimen148
-\lineht@=\dimen149
-\@envbody=\toks19
+\andhelp@=\toks19
+\eqnshift@=\dimen146
+\alignsep@=\dimen147
+\tagshift@=\dimen148
+\tagwidth@=\dimen149
+\totwidth@=\dimen150
+\lineht@=\dimen151
+\@envbody=\toks20
 \multlinegap=\skip51
 \multlinetaggap=\skip52
-\mathdisplay@stack=\toks20
+\mathdisplay@stack=\toks21
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
@@ -108,10 +132,6 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (d:/Latex/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(d:/Latex/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks21
-)
 (d:/Latex/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
@@ -121,35 +141,15 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@cnth=\count271
 \Gm@cntv=\count272
 \c@Gm@tempcnt=\count273
-\Gm@bindingoffset=\dimen150
-\Gm@wd@mp=\dimen151
-\Gm@odd@mp=\dimen152
-\Gm@even@mp=\dimen153
-\Gm@layoutwidth=\dimen154
-\Gm@layoutheight=\dimen155
-\Gm@layouthoffset=\dimen156
-\Gm@layoutvoffset=\dimen157
+\Gm@bindingoffset=\dimen152
+\Gm@wd@mp=\dimen153
+\Gm@odd@mp=\dimen154
+\Gm@even@mp=\dimen155
+\Gm@layoutwidth=\dimen156
+\Gm@layoutheight=\dimen157
+\Gm@layouthoffset=\dimen158
+\Gm@layoutvoffset=\dimen159
 \Gm@dimlist=\toks22
-)
-(d:/Latex/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-
-(d:/Latex/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
-
-(d:/Latex/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-)
-(d:/Latex/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
-)
-Package graphics Info: Driver file: pdftex.def on input line 107.
-
-(d:/Latex/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
-))
-\Gin@req@height=\dimen158
-\Gin@req@width=\dimen159
 )
 (d:/Latex/texlive/2022/texmf-dist/tex/latex/tools/enumerate.sty
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
@@ -344,36 +344,84 @@ File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 \zifour@ocount=\count295
 )
-\c@theorem=\count296
-Package hyperref Info: Option `colorlinks' set `true' on input line 14.
+(d:/Latex/texlive/2022/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2022/01/07 v1.5 Sub-captions (AR)
+
+(d:/Latex/texlive/2022/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+
+(d:/Latex/texlive/2022/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen164
+\captionmargin=\dimen165
+\caption@leftmargin=\dimen166
+\caption@rightmargin=\dimen167
+\caption@width=\dimen168
+\caption@indent=\dimen169
+\caption@parindent=\dimen170
+\caption@hangindent=\dimen171
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count296
+\c@continuedfloat=\count297
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+)
+\c@subfigure=\count298
+\c@subtable=\count299
+)
+\c@theorem=\count300
+Package hyperref Info: Option `colorlinks' set `true' on input line 16.
 
 (d:/Latex/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count297
+\l__color_backend_stack_int=\count301
 \l__pdf_internal_box=\box55
 )
 (./document.aux)
 \openout1 = `document.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
 
+(d:/Latex/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count302
+\scratchdimen=\dimen172
+\scratchbox=\box56
+\nofMPsegments=\count303
+\nofMParguments=\count304
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count305
+\MPscratchDim=\dimen173
+\MPnumerator=\count306
+\makeMPintoPDFobject=\count307
+\everyMPtoPDFconversion=\toks30
+) (d:/Latex/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(d:/Latex/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -408,28 +456,6 @@ LaTeX Font Info:    ... okay on input line 27.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(d:/Latex/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count298
-\scratchdimen=\dimen164
-\scratchbox=\box56
-\nofMPsegments=\count299
-\nofMParguments=\count300
-\everyMPshowfont=\toks29
-\MPscratchCnt=\count301
-\MPscratchDim=\dimen165
-\MPnumerator=\count302
-\makeMPintoPDFobject=\count303
-\everyMPtoPDFconversion=\toks30
-) (d:/Latex/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(d:/Latex/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
 (d:/Latex/texlive/2022/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
 
@@ -439,7 +465,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package color Info: Driver file: pdftex.def on input line 149.
 
 (d:/Latex/texlive/2022/texmf-dist/tex/latex/graphics/mathcolor.ltx))
-Package hyperref Info: Link coloring ON on input line 27.
+Package hyperref Info: Link coloring ON on input line 29.
 
 (./document.out) (./document.out)
 \@outlinefile=\write3
@@ -450,68 +476,117 @@ Package hyperref Info: Link coloring ON on input line 27.
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
 tim
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 29.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 31.
 
 
 (d:/Latex/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 29.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 31.
 
 
 (d:/Latex/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for OT1+zi4 on input line 3
-4.
+6.
 
 (d:/Latex/texlive/2022/texmf-dist/tex/latex/inconsolata/ot1zi4.fd
 File: ot1zi4.fd 2018/01/14 OT1/zi4 (Inconsolata)
 )
 LaTeX Font Info:    Font shape `OT1/zi4/m/n' will be
-(Font)              scaled to size 10.95pt on input line 34.
+(Font)              scaled to size 10.95pt on input line 36.
+<DSM_Checker_Loss.png, id=4, 413.3844pt x 299.1978pt>
+File: DSM_Checker_Loss.png Graphic file (type png)
+<use DSM_Checker_Loss.png>
+Package pdftex.def Info: DSM_Checker_Loss.png  used on input line 51.
+(pdftex.def)             Requested size: 211.3883pt x 152.99973pt.
+<DSM_Gaussian_Loss.png, id=6, 419.8887pt x 298.4751pt>
+File: DSM_Gaussian_Loss.png Graphic file (type png)
+<use DSM_Gaussian_Loss.png>
+Package pdftex.def Info: DSM_Gaussian_Loss.png  used on input line 58.
+(pdftex.def)             Requested size: 211.3883pt x 150.26646pt.
+<DSM_Pin_loss.png, id=7, 413.3844pt x 298.4751pt>
+File: DSM_Pin_loss.png Graphic file (type png)
+<use DSM_Pin_loss.png>
+Package pdftex.def Info: DSM_Pin_loss.png  used on input line 65.
+(pdftex.def)             Requested size: 211.3883pt x 152.63017pt.
+<DSM_Spin_loss.png, id=8, 413.3844pt x 298.4751pt>
+File: DSM_Spin_loss.png Graphic file (type png)
+<use DSM_Spin_loss.png>
+Package pdftex.def Info: DSM_Spin_loss.png  used on input line 72.
+(pdftex.def)             Requested size: 211.3883pt x 152.63017pt.
 
-Overfull \hbox (17.64125pt too wide) in paragraph at lines 33--43
+Overfull \hbox (17.64125pt too wide) in paragraph at lines 35--79
 \OT1/cmr/m/n/10.95 Chekerbooks in \OT1/zi4/m/n/10.95 denoising[]score[]matching
 .ipynb\OT1/cmr/m/n/10.95 , Pin-Wheel in \OT1/zi4/m/n/10.95 denoising[]score[]ma
 tching[]pin.ipynb\OT1/cmr/m/n/10.95 ,
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 33--43
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 44--46
-
- []
-
 [1
 
 {d:/Latex/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./document.aux)
+<EBM_Loss.png, id=20, 394.5942pt x 298.4751pt>
+File: EBM_Loss.png Graphic file (type png)
+<use EBM_Loss.png>
+Package pdftex.def Info: EBM_Loss.png  used on input line 98.
+(pdftex.def)             Requested size: 211.3883pt x 159.89893pt.
+<EBM_Gaussian_Loss.png, id=21, 394.5942pt x 298.4751pt>
+File: EBM_Gaussian_Loss.png Graphic file (type png)
+<use EBM_Gaussian_Loss.png>
+Package pdftex.def Info: EBM_Gaussian_Loss.png  used on input line 105.
+(pdftex.def)             Requested size: 211.3883pt x 159.89893pt.
+<EBM_Pin_loss.png, id=22, 403.9893pt x 298.4751pt>
+File: EBM_Pin_loss.png Graphic file (type png)
+<use EBM_Pin_loss.png>
+Package pdftex.def Info: EBM_Pin_loss.png  used on input line 112.
+(pdftex.def)             Requested size: 211.3883pt x 156.17801pt.
+File: EBM_Pin_loss.png Graphic file (type png)
+<use EBM_Pin_loss.png>
+Package pdftex.def Info: EBM_Pin_loss.png  used on input line 119.
+(pdftex.def)             Requested size: 211.3883pt x 156.17801pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--126
+
+ []
+
+[2 <./DSM_Checker_Loss.png> <./DSM_Gaussian_Loss.png> <./DSM_Pin_loss.png> <./D
+SM_Spin_Loss.png>]
+<DSM_Checker.png, id=33, 397.485pt x 302.0886pt>
+File: DSM_Checker.png Graphic file (type png)
+<use DSM_Checker.png>
+Package pdftex.def Info: DSM_Checker.png  used on input line 134.
+(pdftex.def)             Requested size: 211.3883pt x 160.65932pt.
+<EBM.png, id=34, 397.485pt x 302.0886pt>
+File: EBM.png Graphic file (type png)
+<use EBM.png>
+Package pdftex.def Info: EBM.png  used on input line 141.
+(pdftex.def)             Requested size: 211.3883pt x 160.65932pt.
+ [3 <./EBM_loss.png> <./EBM_Gaussian_Loss.png> <./EBM_pin_loss.png>] [4 <./DSM_
+Checker.png> <./EBM.png>] (./document.aux)
 Package rerunfilecheck Info: File `document.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 11000 strings out of 476065
- 173183 string characters out of 5792026
- 1857299 words of memory out of 5000000
- 31242 multiletter control sequences out of 15000+600000
+ 12498 strings out of 476065
+ 202459 string characters out of 5792026
+ 1858299 words of memory out of 5000000
+ 32714 multiletter control sequences out of 15000+600000
  518340 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,76p,418b,436s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 83i,9n,131p,418b,598s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {d:/Latex/texlive/2022/texmf-dist/fonts/enc/dvips/inconsolata/i4-ot1-0.enc}<d
 :/Latex/texlive/2022/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r
 .pfb><d:/Latex/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pf
 b><d:/Latex/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d
 :/Latex/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/La
 tex/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on document.pdf (1 page, 72438 bytes).
+Output written on document.pdf (4 pages, 507119 bytes).
 PDF statistics:
- 41 PDF objects out of 1000 (max. 8388607)
- 27 compressed objects within 1 object stream
- 4 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 78 PDF objects out of 1000 (max. 8388607)
+ 43 compressed objects within 1 object stream
+ 11 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
