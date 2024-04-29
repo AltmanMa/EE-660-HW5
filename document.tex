@@ -1,0 +1,46 @@
+\documentclass[11pt]{article}
+\usepackage{amsmath,textcomp,amssymb,geometry,graphicx,enumerate}
+\usepackage{algorithm} % Boxes/formatting around algorithms
+\usepackage[noend]{algpseudocode} % Algorithms
+\usepackage{hyperref}
+\usepackage{inconsolata}
+\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}[theorem]{Lemma}
+\hypersetup{
+	colorlinks=true,
+	linkcolor=blue,
+	filecolor=magenta,      
+	urlcolor=blue,
+}
+
+\title{EE660 -- Spring 2024 --- Homework 5}
+\author{Altman (Gujia) Ma}
+\date{}
+
+\textheight=9in
+\textwidth=6.5in
+\topmargin=-.75in
+\oddsidemargin=0.25in
+\evensidemargin=0.25in
+
+
+\begin{document}
+	\maketitle
+	
+	Collaborators: n/a
+	In this Homework, I will apply DSM and EBM on all generators. Also I tried VAE and DDPM, but met problems when doing training so I gave up. However, the jupyter notebooks for the failed trails are also submitted. 
+	\section*{1. Denosing Score Mathinc Method}
+	In this part, I applied DSM on all four of the generators. 
+	The training process is recorded in four Jupyter notebooks:\\ Chekerbooks in \texttt{denoising\_score\_matching.ipynb}, PinWheel in \texttt{denoising\_score\_matching\_pin.ipynb}, Spiral in \texttt{denoising\_score\_matching\_Spin.ipynb} and Gaussian Mixtures in\\ \texttt{denoising\_score\_matching\_Gaussian.ipynb}. \\
+	I applied the same superparameters for all four datasets:\\\texttt{
+	The MLP has 2 hidden layers with 64 nerons on each layer, and 2 on output layer. \\
+	Activation: Swish Function.\\
+	Learning Rate: 0.001.\\
+	Optimizer: Adam.\\
+	Batch size: 128.\\
+	Number of Epoches: 5000,\\
+	Noise Level: 0.1.\\}
+	\section*{2. Energy Based Model}
+	In this part, I applied DSM on all four of the generators. 
+	The training process is recorded in four Jupyter notebooks:\\ Chekerbooks in \texttt{EBM.ipynb}, PinWheel in \texttt{EBM\_pin.ipynb}, Spiral in \texttt{EBM\_Spin.ipynb} and Gaussian Mixtures in \texttt{EBM\_Gaussian.ipynb}. \\
+\end{document}
